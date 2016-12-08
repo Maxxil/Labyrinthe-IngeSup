@@ -1,3 +1,1 @@
 # Labyrinthe-IngeSup
-Toto
-Titi
